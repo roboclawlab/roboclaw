@@ -3,7 +3,7 @@
 Live industrial robot labs you can control from the browser.
 
 ## Enter the experience
-→ [RoboClawLab Homeschool Edition](https://homeschool.roboclawlab.com)
+→ OPENS SEPTEMBER 8 2026
 
 ## What you’ll experience
 - Real KUKA / ABB robot motion (not a simulation)
