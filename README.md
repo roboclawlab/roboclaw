@@ -1,6 +1,6 @@
 # RoboClawLab Homeschool Edition
 RoboClawLab is a powerful open-core framework developed by andyRobot that converts your creative
-vision into a fully synchronized live robotic production. RoboclawLAb intelligently connects robotics with
+vision into a fully synchronized live robotic production. RoboclawLab intelligently connects robotics with
 multiple AI models, precise timing engines, and physical hardware into one cohesive, autonomous
 creative production studio.
 
