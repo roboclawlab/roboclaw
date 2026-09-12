@@ -15,7 +15,7 @@
       "axes": 6
     }
   ],
-  "notes": "Lightweight seed configuration file included with every educational fork. Not used by the live lab runtime.",
+  "notes": "Lightweight seed configuration file included with every educational fork. ",
   "fork_marker": "roboclaw-educational-seed",
   "includes_history": true,
   "includes_public_specs": true,
