@@ -1,6 +1,6 @@
 
 # RoboClawLab API Sandbox 
-# OPEN DAILY 10am-11pm Central Standard Time
+# OPEN DAILY 10am-Midnight Central Standard Time
 
 Live industrial robots in the browser.  
 GitHub is the key.
